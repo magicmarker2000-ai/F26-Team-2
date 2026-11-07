@@ -1,4 +1,4 @@
-# Seal Team 2 Project Proposal: Wire4less Fault Current Indicator
+# Seal Team 2 Project Proposal: Wireless Fault Current Indicator
 ## Introduction
 Across the globe,  electrical power is supplied from source to recipient via power lines. These lines carry single and three phase power while often carrying telecommunication signals below on a separate section. If these power lines fail, it can result in loss of magnitude of power (brownout) or loss of power altogether (blackout). This can happen from a transformer blowing up, power lines grounding through trees, or power lines falling either into other lines or onto the ground. Any instance which results in unprompted behavior is called a fault. Currently, the main method in locating a fault is by mobilizing service workers and garnering information from customer calls \[1\]. This, as one can imagine, is quite costly both monetarily and temporally.
 
