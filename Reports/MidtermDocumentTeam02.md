@@ -981,7 +981,7 @@ For the Telluric Current Sensor, a wye-configuration of stainless steel rods is 
 
 ### Operational Flow Chart
 
-https://github.com/magicmarker2000-ai/F26-Team-2/blob/9e61d6d29a10b8d823a861bc141c5c33d530c518/Reports/Operational%20Flow%20Chart.png
+![Operational Flow Chart](Operational%20Flow%20Chart.png)
 
 ## Atomic Subsystem Specifications
 
